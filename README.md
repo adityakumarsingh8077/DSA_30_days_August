@@ -7,15 +7,14 @@ Instead of pushing code daily, I’m uploading them in batches based on how many
 ---
 
 Day 1:
-- Pascal's Triangle – https://leetcode.com/problems/pascals-triangle/
-- Two Sum – https://leetcode.com/problems/two-sum/
-- Reverse Array – https://practice.geeksforgeeks.org/problems/reverse-array/
+- Arrays – Pascal's Triangle – https://leetcode.com/problems/pascals-triangle/
+- Arrays – Two Sum – https://leetcode.com/problems/two-sum/
+- Arrays – Reverse Array – https://practice.geeksforgeeks.org/problems/reverse-array/
 
 ---
 
 Day 2:
-- Rotate Array – https://leetcode.com/problems/rotate-array/
-- Maximum Subarray (Kadane's Algorithm) – https://leetcode.com/problems/maximum-subarray/
+
 
 ---
 
